@@ -31,7 +31,7 @@
 #include <boost/bind.hpp> 
 
 #include "net/levin_server_cp2.h"
-#include "transport_defs.h"
+#include "iface/transport_defs.h"
 #include "storages/levin_abstract_invoke2.h"
 
 using namespace epee;
